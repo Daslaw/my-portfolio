@@ -61,7 +61,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 .full-name {
   color: #fff;
@@ -70,8 +70,8 @@ header {
   margin: 0;
 }
 .profile-image {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 .brief {
